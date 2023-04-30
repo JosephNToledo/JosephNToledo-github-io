@@ -1,6 +1,5 @@
 import React from 'react'
 import './footer.css'
-import { FOCUSABLE_SELECTOR } from '@testing-library/user-event/dist/utils'
 import {FaFacebookF} from 'react-icons/fa'
 import {FiInstagram} from 'react-icons/fi'
 import {BsTwitter} from 'react-icons/bs'
@@ -26,7 +25,7 @@ const Footer = () => {
       </div>
 
       <div className="footer_copyright">
-        <small>&copy; Joseph Toledo. All rights reserved</small>
+        <small>&copy; Joseph Toledo. All rights reserved.</small>
       </div>
     </footer>
   )

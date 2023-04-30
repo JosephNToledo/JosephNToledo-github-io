@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.89b41860.css",
-    "main.js": "/static/js/main.ae8401b9.js",
-    "static/media/me.png": "/static/media/me.68bd655b613f80851636.png",
-    "static/media/me-about.jpg": "/static/media/me-about.09867529c5633e75e570.jpg",
-    "static/media/cv.pdf": "/static/media/cv.bb84ae2dcaeb49682b24.pdf",
-    "static/media/portfolio1.jpg": "/static/media/portfolio1.691d02edd3f68faa874e.jpg",
-    "index.html": "/index.html",
-    "main.89b41860.css.map": "/static/css/main.89b41860.css.map",
-    "main.ae8401b9.js.map": "/static/js/main.ae8401b9.js.map"
+    "main.css": "/react-gh-pages/static/css/main.89b41860.css",
+    "main.js": "/react-gh-pages/static/js/main.331c5f2b.js",
+    "static/media/me.png": "/react-gh-pages/static/media/me.68bd655b613f80851636.png",
+    "static/media/me-about.jpg": "/react-gh-pages/static/media/me-about.09867529c5633e75e570.jpg",
+    "static/media/cv.pdf": "/react-gh-pages/static/media/cv.bb84ae2dcaeb49682b24.pdf",
+    "static/media/portfolio1.jpg": "/react-gh-pages/static/media/portfolio1.691d02edd3f68faa874e.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.89b41860.css.map": "/react-gh-pages/static/css/main.89b41860.css.map",
+    "main.331c5f2b.js.map": "/react-gh-pages/static/js/main.331c5f2b.js.map"
   },
   "entrypoints": [
     "static/css/main.89b41860.css",
-    "static/js/main.ae8401b9.js"
+    "static/js/main.331c5f2b.js"
   ]
 }

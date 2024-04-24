@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/JosephNToledo-github-io/static/css/main.4e9a473f.css",
+    "main.js": "/JosephNToledo-github-io/static/js/main.dd63e15d.js",
+    "static/media/me.png": "/JosephNToledo-github-io/static/media/me.68bd655b613f80851636.png",
+    "static/media/me-about.jpg": "/JosephNToledo-github-io/static/media/me-about.09867529c5633e75e570.jpg",
+    "static/media/cv.pdf": "/JosephNToledo-github-io/static/media/cv.bb84ae2dcaeb49682b24.pdf",
+    "static/media/portfolio1.jpg": "/JosephNToledo-github-io/static/media/portfolio1.691d02edd3f68faa874e.jpg",
+    "index.html": "/JosephNToledo-github-io/index.html",
+    "main.4e9a473f.css.map": "/JosephNToledo-github-io/static/css/main.4e9a473f.css.map",
+    "main.dd63e15d.js.map": "/JosephNToledo-github-io/static/js/main.dd63e15d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e9a473f.css",
+    "static/js/main.dd63e15d.js"
+  ]
+}
